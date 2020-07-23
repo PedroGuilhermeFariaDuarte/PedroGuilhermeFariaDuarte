@@ -1,4 +1,4 @@
-![About Me](/banner.jpg)
+![About Me](https://raw.githubusercontent.com/PedroGuilhermeFariaDuarte/PedroGuilhermeFariaDuarte/master/banner.jpg)
 
 <!--
 **PedroGuilhermeFariaDuarte/PedroGuilhermeFariaDuarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
