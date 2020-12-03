@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
    - linkedin: https://www.linkedin.com/in/pedro-guilherme-b25bb6114/
 - ⚡ Fun fact: with many ideas in my mind and loves pizzas
+
+Estou participando do [**DoWhile2020**](https://dowhile.rocketseat.com.br/inscricao/convite/pedroguilhermefariaduarte), se inscreva! 😄
