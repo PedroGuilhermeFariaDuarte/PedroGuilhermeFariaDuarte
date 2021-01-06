@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about how developing a game in Unreal Engine...
 - 💬 Ask me about ...
 - 📫 How to reach me: 
-   - linkedin: https://www.linkedin.com/in/pedro-guilherme-b25bb6114/
+   - **linkedin**: https://www.linkedin.com/in/pedro-guilherme-faria-duarte-0b0970202/
 - ⚡ Fun fact: with many ideas in my mind and loves pizzas
 
 Estou participando do [**DoWhile2020**](https://dowhile.rocketseat.com.br/inscricao/convite/pedroguilhermefariaduarte), se inscreva! 😄
