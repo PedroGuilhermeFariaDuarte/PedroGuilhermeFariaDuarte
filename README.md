@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
    - **linkedin**: https://www.linkedin.com/in/pedro-guilherme-faria-duarte-0b0970202/
 - ⚡ Fun fact: with many ideas in my mind and loves pizzas
+- 😄 See my livestream in [Twitch](https://www.twitch.tv/onedev_)
 
 Estou participando do [**DoWhile2020**](https://dowhile.rocketseat.com.br/inscricao/convite/pedroguilhermefariaduarte), se inscreva! 😄
