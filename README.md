@@ -23,4 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: with many ideas in my mind and loves pizzas
 - 😄 See my livestream in [Twitch](https://www.twitch.tv/onedev_)
 
-Estou participando do [**DoWhile2020**](https://dowhile.rocketseat.com.br/inscricao/convite/pedroguilhermefariaduarte), se inscreva! 😄
+Estou participando do **<nlw/>** se inscreva 😄:
+   - [Trilha React](https://nextlevelweek.com/convite/pedroguilhermefariaduarte)
+   - [Trilha Node.JS](https://nextlevelweek.com/convite/pedroguilhermefariaduarte)
+   - [Trilha Elixir](https://nextlevelweek.com/convite/pedroguilhermefariaduarte)
