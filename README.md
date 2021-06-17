@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 😄 See my livestream in [Twitch](https://www.twitch.tv/onedev_)
 
 Estou participando do **NLW** se inscreva 😄:
-   - [Trilha React](https://nextlevelweek.com/convite/pedroguilhermefariaduarte)   
+   - [Trilha Node.JS](https://nextlevelweek.com/convite/pedroguilhermefariaduarte/6)
