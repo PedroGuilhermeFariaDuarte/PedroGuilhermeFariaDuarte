@@ -31,7 +31,7 @@ Veja meus projetos aqui, obrigado 🎉
 
  Hackathons 🖨️
  
-| Projeto |  Apresentasão  | Demonstração |
-|:-----|:--------:|------:|
+| Projeto |  Apresentasão  | Demonstração | Certificado
+|:-----|:--------:|------:|------:|
 | Nasa Space Apps - Time Ponto Azul   | [Pitch](https://youtu.be/ORJ-tliQmuU) |  |
 | Agendasys   | [Pitch](https://www.youtube.com/watch?v=7kD-jMg_TOo) |  [Demonstração](https://www.youtube.com/watch?v=SzAswxZbC50) |
