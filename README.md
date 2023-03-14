@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on personal science fiction project
 - 🌱 I’m currently learning about how developing a game in Unreal Engine...
-- 💬 Ask me about ...
 - 📫 How to reach me: 
    - **linkedin**: https://www.linkedin.com/in/pedro-guilherme-faria-duarte-0b0970202/
 - ⚡ Fun fact: with many ideas in my mind and loves pizzas
 - 😄 See my livestream in [Twitch](https://www.twitch.tv/onedev_)
 
-Estou participando do **NLW** se inscreva 😄:
-   - [Trilha Node.JS](https://nextlevelweek.com/convite/pedroguilhermefariaduarte/6)
+Veja meus projetos aqui, obrigado 🎉
+
+1. [Flumer](https://flumer.netlify.app/) - [Repositorio](https://github.com/PedroGuilhermeFariaDuarte/FlumeApp)
+2. [Feed](https://whatsfeed.netlify.app/) - [Repositorio](https://github.com/PedroGuilhermeFariaDuarte/ignite-feed)
+3. [Todo](https://tuudo.netlify.app/) - [Repositorio](https://github.com/PedroGuilhermeFariaDuarte/todo)
