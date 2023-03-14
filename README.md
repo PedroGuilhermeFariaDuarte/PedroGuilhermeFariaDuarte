@@ -31,7 +31,7 @@ Veja meus projetos aqui, obrigado 🎉
 
  Hackathons 🖨️
  
-| Projeto |  Apresentasão  | Demonstração | Certificado
-|:-----|:--------:|------:|------:|
-| Nasa Space Apps - Time Ponto Azul   | [Pitch](https://youtu.be/ORJ-tliQmuU) |  |
-| Agendasys   | [Pitch](https://www.youtube.com/watch?v=7kD-jMg_TOo) |  [Demonstração](https://www.youtube.com/watch?v=SzAswxZbC50) |
+| Projeto |  Apresentasão  | Demonstração | Certificado | Documentação
+|:-----|:--------:|------:|------:|------:|
+| Nasa Space Apps - Time Ponto Azul   | [Pitch](https://youtu.be/ORJ-tliQmuU) |  | | [Documentação](https://github.com/PedroGuilhermeFariaDuarte/PedroGuilhermeFariaDuarte/files/10971826/Ponto.Azul.pdf)
+| Agendasys   | [Pitch](https://www.youtube.com/watch?v=7kD-jMg_TOo) |  [Demonstração](https://www.youtube.com/watch?v=SzAswxZbC50) | [Certificado](https://github.com/PedroGuilhermeFariaDuarte/PedroGuilhermeFariaDuarte/files/10971795/Pedro.Guilherme.pdf) | [Documentação](https://github.com/PedroGuilhermeFariaDuarte/PedroGuilhermeFariaDuarte/files/10971839/Agendasys.pdf)
