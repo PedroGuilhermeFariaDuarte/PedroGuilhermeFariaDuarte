@@ -27,3 +27,11 @@ Veja meus projetos aqui, obrigado 🎉
 1. [Flumer](https://flumer.netlify.app/) - [Repositorio](https://github.com/PedroGuilhermeFariaDuarte/FlumeApp)
 2. [Feed](https://whatsfeed.netlify.app/) - [Repositorio](https://github.com/PedroGuilhermeFariaDuarte/ignite-feed)
 3. [Todo](https://tuudo.netlify.app/) - [Repositorio](https://github.com/PedroGuilhermeFariaDuarte/todo)
+
+
+ Hackathons 🖨️
+ 
+| Projeto |  Apresentasão  | Demonstração |
+|:-----|:--------:|------:|
+| Nasa Space Apps - Time Ponto Azul   | [Pitch](https://youtu.be/ORJ-tliQmuU) |  |
+| Agendasys   | [Pitch](https://www.youtube.com/watch?v=7kD-jMg_TOo) |  [Demonstração](https://www.youtube.com/watch?v=SzAswxZbC50) |
