@@ -1,7 +1,8 @@
-![About Me](https://raw.githubusercontent.com/PedroGuilhermeFariaDuarte/PedroGuilhermeFariaDuarte/master/github.png)
+<!--![About Me](https://raw.githubusercontent.com/PedroGuilhermeFariaDuarte/PedroGuilhermeFariaDuarte/master/github.png)-->
 
-<!--
-**PedroGuilhermeFariaDuarte/PedroGuilhermeFariaDuarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![About Me](https://user-images.githubusercontent.com/16112395/226205117-633edf76-df5e-4c7d-bf79-e1dcda5ed7e4.png)
+
+<!--**PedroGuilhermeFariaDuarte/PedroGuilhermeFariaDuarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
