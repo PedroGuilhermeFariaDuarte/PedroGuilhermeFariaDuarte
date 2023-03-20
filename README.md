@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on personal science fiction project
 - 🌱 I’m currently learning about how developing a game in Unreal Engine...
 - 📫 How to reach me: 
-   - **linkedin**: https://www.linkedin.com/in/pedro-guilherme-faria-duarte-0b0970202/
+   - [**Linkedin**](https://www.linkedin.com/in/pedrogfd/)
 - ⚡ Fun fact: with many ideas in my mind and loves pizzas
 - 😄 See my livestream in [Twitch](https://www.twitch.tv/onedev_)
 
